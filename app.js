@@ -34,5 +34,5 @@ module.exports = app;
 //  _ Build APi with Crud methods [*]
 //  _ Feature: add status(want to read,currently reading,completed) to book and the ability to re-assign it [*]
 //  _ Feature: Filter books by status [*]
+//  _ handle Erorrs [*]
 //  _ Feature: find all the information of the book just with isbn [] front-end
-//  _ handle Erorrs []
